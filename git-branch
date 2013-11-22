@@ -1,1 +1,2 @@
-Explain what a branch is
+A branch is a git feature that lets you work on different aspects of a project bugs/features/refactoring seperately, 
+until they are completed and working, and you are ready to merge them with the master branch
