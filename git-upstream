@@ -1,1 +1,2 @@
-Explain what the "upstream" remote is usually used for
+the 'upstream' remote is used to push and pull the most current working version of a project.
+Especially useful when multiple programmers are working on a project from different machines.
